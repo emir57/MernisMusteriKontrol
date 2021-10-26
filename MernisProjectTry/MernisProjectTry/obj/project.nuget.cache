@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "R7+hr1eGO5izbM9L08Pqj+tf8V0awXZakB5RXJo1mhtJn2TLPTvxVrp+D3l508sLdb1dSgNrvRXAXLW1t1OB2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lolem\\source\\repos\\MernisProjectTry\\MernisProjectTry\\MernisProjectTry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lolem\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.private.servicemodel\\4.7.0\\system.private.servicemodel.4.7.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.security.cryptography.pkcs\\4.5.0\\system.security.cryptography.pkcs.4.5.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\system.servicemodel.duplex.4.7.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\system.servicemodel.http.4.7.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\system.servicemodel.nettcp.4.7.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\system.servicemodel.primitives.4.7.0.nupkg.sha512",
+    "C:\\Users\\lolem\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\system.servicemodel.security.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
